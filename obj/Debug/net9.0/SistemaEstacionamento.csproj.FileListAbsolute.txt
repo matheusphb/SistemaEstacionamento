@@ -1,0 +1,15 @@
+C:\Users\mateu\OneDrive\Documentos\project .Net\SistemaEstacionamento\bin\Debug\net9.0\SistemaEstacionamento.exe
+C:\Users\mateu\OneDrive\Documentos\project .Net\SistemaEstacionamento\bin\Debug\net9.0\SistemaEstacionamento.deps.json
+C:\Users\mateu\OneDrive\Documentos\project .Net\SistemaEstacionamento\bin\Debug\net9.0\SistemaEstacionamento.runtimeconfig.json
+C:\Users\mateu\OneDrive\Documentos\project .Net\SistemaEstacionamento\bin\Debug\net9.0\SistemaEstacionamento.dll
+C:\Users\mateu\OneDrive\Documentos\project .Net\SistemaEstacionamento\bin\Debug\net9.0\SistemaEstacionamento.pdb
+C:\Users\mateu\OneDrive\Documentos\project .Net\SistemaEstacionamento\obj\Debug\net9.0\SistemaEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\OneDrive\Documentos\project .Net\SistemaEstacionamento\obj\Debug\net9.0\SistemaEstacionamento.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Documentos\project .Net\SistemaEstacionamento\obj\Debug\net9.0\SistemaEstacionamento.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Documentos\project .Net\SistemaEstacionamento\obj\Debug\net9.0\SistemaEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Documentos\project .Net\SistemaEstacionamento\obj\Debug\net9.0\SistemaEstacionamento.sourcelink.json
+C:\Users\mateu\OneDrive\Documentos\project .Net\SistemaEstacionamento\obj\Debug\net9.0\SistemaEstacionamento.dll
+C:\Users\mateu\OneDrive\Documentos\project .Net\SistemaEstacionamento\obj\Debug\net9.0\refint\SistemaEstacionamento.dll
+C:\Users\mateu\OneDrive\Documentos\project .Net\SistemaEstacionamento\obj\Debug\net9.0\SistemaEstacionamento.pdb
+C:\Users\mateu\OneDrive\Documentos\project .Net\SistemaEstacionamento\obj\Debug\net9.0\SistemaEstacionamento.genruntimeconfig.cache
+C:\Users\mateu\OneDrive\Documentos\project .Net\SistemaEstacionamento\obj\Debug\net9.0\ref\SistemaEstacionamento.dll
