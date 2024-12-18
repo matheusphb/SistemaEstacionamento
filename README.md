@@ -80,7 +80,6 @@ Este projeto está licenciado sob a **MIT License**. Para mais detalhes, consult
 ---
 
 Desenvolvido com 💙 por [Matheus PHB](https://github.com/matheusphb).
-```
 
 ---
 
